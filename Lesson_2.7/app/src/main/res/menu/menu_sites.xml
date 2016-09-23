@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item android:title="Android Enthusiasts"
+            android:icon="@drawable/ic_forum" />
+
+        <item android:title="Ask Different"
+            android:icon="@drawable/ic_forum" />
+
+        <item android:title="Ask Ubuntu"
+            android:icon="@drawable/ic_forum" />
+
+        <item android:title="Biology"
+            android:icon="@drawable/ic_forum" />
+
+        <item android:title="English Language"
+            android:icon="@drawable/ic_forum" />
+
+        <item android:title="Raspberry Pi"
+            android:icon="@drawable/ic_forum" />
+
+        <item android:title="Server Fault"
+            android:icon="@drawable/ic_forum" />
+
+        <item android:title="Space Exploration"
+            android:icon="@drawable/ic_forum" />
+
+        <item android:title="Stack Overflow"
+            android:icon="@drawable/ic_forum" android:checked="true"/>
+
+        <item android:title="Super User"
+            android:icon="@drawable/ic_forum" />
+
+        <item android:title="Web Applications"
+            android:icon="@drawable/ic_forum" />
+    </group>
+</menu>
